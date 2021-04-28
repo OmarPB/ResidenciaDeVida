@@ -1,0 +1,123 @@
+[33mcommit 8bf09c267eb81580a6be2fbd421eb3378bed5c6e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Wed Apr 28 15:28:36 2021 -0600
+
+    fixed index and acercaDe
+
+[33mcommit dc10276f1ff56d2b8710532441c4a63b4e96e01a[m
+Merge: f49de63 04daa42
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Wed Apr 28 15:14:40 2021 -0600
+
+    Merge branch 'master' of https://github.com/OmarPB/ResidenciaDeVida
+
+[33mcommit f49de63b051f7bf588dcf4267b739968d8fcd9a2[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Wed Apr 28 15:14:11 2021 -0600
+
+    a ver que sale
+
+[33mcommit 04daa4257820f955550e0727e58e220e1ffceffb[m
+Merge: be204b1 2e5b2a8
+Author: Vardarts <ballestero.ev@gmail.com>
+Date:   Wed Apr 28 14:58:20 2021 -0600
+
+    Arreglo de animacion
+
+[33mcommit be204b1388f93064fba5a256680856ce84371038[m
+Author: Vardarts <ballestero.ev@gmail.com>
+Date:   Wed Apr 28 14:55:57 2021 -0600
+
+    Fix de animacion
+
+[33mcommit 2e5b2a829ea4754e992d1c91d3a224f92debf8ed[m
+Author: Alana-Arias <alana.arias@hotmail.com>
+Date:   Wed Apr 28 14:51:55 2021 -0600
+
+    girl image updated
+
+[33mcommit 199dc9a1218b07d6f8e1fa3f18d2fb048a10bdf5[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Wed Apr 28 14:48:56 2021 -0600
+
+    imagen de acerca de y emociones
+
+[33mcommit 956d649d565fb44a7bac1c8b5b678bafb40f1ac9[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Wed Apr 28 14:35:36 2021 -0600
+
+    se reemplazan las links de las imágenes por la imagen como tal
+
+[33mcommit 7847ec23dfea3aeed7e8d1da780a50b62522fa52[m
+Merge: 7457dbe 7089d61
+Author: Alana-Arias <alana.arias@hotmail.com>
+Date:   Wed Apr 28 14:27:35 2021 -0600
+
+    Merge branch 'master' of https://github.com/OmarPB/ResidenciaDeVida
+
+[33mcommit 7457dbea3f58f798781dc187ec1c661f430b9e30[m
+Author: Alana-Arias <alana.arias@hotmail.com>
+Date:   Wed Apr 28 14:25:51 2021 -0600
+
+    imagenes
+
+[33mcommit 7089d610dd4e63aef5591b48b77b2b6dd8726064[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Mon Apr 26 18:42:26 2021 -0600
+
+    se elimina prueba
+
+[33mcommit dda1650453ae258c4790bfad61a7bb982fdd3eac[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Mon Apr 26 18:37:32 2021 -0600
+
+    prueba3
+
+[33mcommit 30a0235c14982294cabcda3b14cbd53d7fde0b4e[m
+Merge: 8d7faaf 575ede5
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Mon Apr 26 18:33:14 2021 -0600
+
+    Merge branch 'master' of https://github.com/OmarPB/ResidenciaDeVida
+
+[33mcommit 8d7faaf82cc5ecabbf5449b29e3bbb78c6f7338a[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Mon Apr 26 18:32:28 2021 -0600
+
+    prueba
+
+[33mcommit 575ede5cf38b52795d5c6e24e2fac582e640a764[m
+Author: Vardarts <ballestero.ev@gmail.com>
+Date:   Mon Apr 26 18:27:45 2021 -0600
+
+    Prueba de conexion
+
+[33mcommit 5c56bc60ffbc60d37f894f71adb99ce1c27efc81[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Mon Apr 26 18:05:22 2021 -0600
+
+    se agrega acercaDe, se crea estructuraBasica.html para copiar y pegar el footer y header
+
+[33mcommit aadbb9bfe21a7b586505efb74d8817dd6427bc8f[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Mon Apr 26 16:51:18 2021 -0600
+
+    se utilizó un plantilla y se agregó información relacionada con el tema, se cambiaron las imágenes y demás atributos necesarios
+
+[33mcommit c36d8c1f77d019bfb0d6506730e854158344e296[m
+Author: Alana-Arias <alana.arias@hotmail.com>
+Date:   Mon Apr 26 14:09:21 2021 -0600
+
+    prueba
+
+[33mcommit a71d40ab9e28f3b9f5614819d606e9c2b6940937[m
+Author: Omar Picado <ariielpb@gmail.com>
+Date:   Mon Apr 26 13:52:35 2021 -0600
+
+    NavBar y Footer para copiar en todas las pags
+
+[33mcommit 7d6e7af03dee8277bf7e44eebbe58568f8bcd873[m[33m ([m[1;32mmain[m[33m)[m
+Author: OmarPB <62044218+OmarPB@users.noreply.github.com>
+Date:   Mon Apr 26 13:25:33 2021 -0600
+
+    Initial commit
