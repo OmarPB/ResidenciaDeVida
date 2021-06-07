@@ -58,6 +58,7 @@ $(function () {
                                 ", los servidores no están listos."
                         )
                     );
+                    alert("Campos: " + name + " " + email + " " + message)
                     $("#success > .alert-danger").append("</div>");
                     //clear all fields
                     $("#contactForm").trigger("reset");
