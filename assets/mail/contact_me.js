@@ -11,7 +11,6 @@ $(function () {
             // get values from FORM
             var name = $("input#name").val();
             var email = $("input#email").val();
-            var phone = $("input#phone").val();
             var message = $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
@@ -25,7 +24,6 @@ $(function () {
                 type: "POST",
                 data: {
                     name: name,
-                    phone: phone,
                     email: email,
                     message: message,
                 },
@@ -55,9 +53,9 @@ $(function () {
                         .append("</button>");
                     $("#success > .alert-danger").append(
                         $("<strong>").text(
-                            "Sorry " +
+                            "Lo sentimos, " +
                                 firstName +
-                                ", it seems that my mail server is not responding. Please try again later!"
+                                ", los servidores no están listos."
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
